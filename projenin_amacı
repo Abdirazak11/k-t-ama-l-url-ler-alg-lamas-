@@ -4,7 +4,7 @@ onların karşı Kullanıcıların tıklayacağı URL’leri tehdit edici faktö
 Kapsam:
               Kullanacağımız URL’lere sınıflandırma kötü amaçlı (bad ) ve Normal Url’ler (good) 
               Ve kötü amaçlı URL’ler keşfetme.
-              (şimdiki planlanım bu ama konuyu ekleme de yapabilirim )
+              
 
 Hangi teknolojiler :
                           Dil: python3.8(anaconda jupyter)
